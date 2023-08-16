@@ -1,2 +1,1 @@
-# gender
-open sourced my gender
+gender: she/they/it
